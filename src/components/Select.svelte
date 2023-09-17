@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { createCombobox, melt } from '@melt-ui/svelte';
 	import { fly } from 'svelte/transition';
-	import { cubicOut, cubicIn } from 'svelte/easing';
 
 	const {
 		elements: { menu, input, option, label },
