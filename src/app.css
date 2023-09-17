@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	:root {
+		--colors-night: #0e0f12;
+		--colors-light-black: #1b1e28;
+		--colors-primary: #5de4c7;
+	}
+}
